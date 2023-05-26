@@ -1,5 +1,5 @@
 # ***Glass Type Identification***
-This project aims to develop a glass type identification system using machine learning techniques. Accurate identification of glass types can be highly useful in criminal investigations, providing solid evidence at crime scenes.
+This project aims to develop a glass type identification system using machine learning techniques. Accurate identification of glass types can be highly useful in criminal investigations, providing solid evidence at crime scenes. Also could be really interesting for glass producers just to be able to reduce the production costs and and increase efficiency.
 
 # Problem Description
 Identifying glass types is important in determining the origin and potential use of glass evidence in criminal investigations. By analyzing the composition of glass samples, we can classify them into different types based on their chemical properties and manufacturing processes.
